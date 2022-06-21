@@ -15,5 +15,8 @@
     },
     "devDependencies": {
         "serve": "^13.0.2"
+    },
+    "dependencies": {
+        "bcrypt-nodejs": "^0.0.3"
     }
 }
