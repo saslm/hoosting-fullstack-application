@@ -15,7 +15,7 @@ jobs:
       - browser/install-chrome
       - node/install:
           install-yarn: true
-          node-version: "16.13"
+          node-version: "14.15.1"
       - aws-cli/setup
       - eb/setup
       # Install node modules for frontend:
