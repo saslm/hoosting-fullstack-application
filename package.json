@@ -17,6 +17,7 @@
         "serve": "^13.0.2"
     },
     "dependencies": {
-        "bcrypt-nodejs": "^0.0.3"
+        "bcrypt-nodejs": "^0.0.3",
+        "radium": "^0.26.2"
     }
 }
